@@ -42,5 +42,7 @@ public class ObstacleSpawner : MonoBehaviour
         wave.transform.parent = transform; // make a child of this gameobject
 
     }
+
+    
     
 }
